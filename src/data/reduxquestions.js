@@ -1,0 +1,18 @@
+export const REDUX_QUESTIONS = [
+  "Explain redux flow in brief?",
+  "What is action creator?",
+  "Can we create multiple stores? if Yes tell  why ? if no tell why should not create?",
+  "What pattern redux follows?",
+  "What are hooks react-redux provides?",
+  "What are useSelector and useDispatch hooks?",
+  "How can you create memoized selector?",
+  "Which middleware you used?",
+  "What is thunk middleware? How it works?",
+  "Name storeAPI methods? tell usage of each.",
+  "Why Redux and why not MobX or Saga? --> (personal note-Should have minimum knowledge . if we dont have it is negative mark that we didnt even known relevant libraries)",
+  "What is redux toolkit? why it is introduced?",
+  "What are RTK Queries?",
+  "What is connect HOC and API? Why it became legacy/deprecated?",
+  "Why redux state is immutable? Explain scenarios.",
+  "What is createAsyncThunk?",
+];

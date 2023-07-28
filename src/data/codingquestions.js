@@ -1,0 +1,17 @@
+export const CODING_QUESTIONS = [
+  "What is async and await in javascript.",
+  "Implement a function to reverse a string.",
+  "Implement a function to check if a string is a palindrome.",
+  "Implement a function to find the maximum element in an array.",
+  "Implement a function to find the factorial of a number.",
+  "Implement a function to check if two strings are anagrams.",
+  "Print number 1 to 50. If number is a muliplier of 3, print Fizz.\n If it's multiplier of 5 print Buzz. If it's a multiplier of both print FizzBuzz.",
+  "Write a function to split a large array into smaller arrays, each with a maximum of n elements.Example: [5,7,3,9,4,6,3,8,0,2,5] max elements 4 => [ [5,7,3,9], [4,6,3,8], [0,2,5] ] | max elements 3 => [ [5,7,3], [9,4,6], [3,8,0], [2,5] ]",
+  "Find second Largest integer in array.",
+  'Find counts of repeated characters in given string Ex.string = "AaBbbCccCc"; //expected : a2b3c5',
+  "Remove duplicates/repeated digits from given array. let inputArr = [1,5,2,4,5,2,1,8,9]; //Expected o/p : [1,5,2,4,8,9];",
+  "Find the single integer which doesnt repeated. Ex.const nums=[2,2,3]; O/P:3",
+  "Find one missing numeber in the given array Ex.const arr=[1,2,3,4,5,6,8]; O/P:7",
+  "Find max or min element in given array. Ex.const arr=[1,2,7,3,4,5]; O/P: max:7 min:1",
+  "Find first repeated character in the string.",
+];
