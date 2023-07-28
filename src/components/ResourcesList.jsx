@@ -9,7 +9,7 @@ const ResourcesList = () => {
         <ul>
           {item.links.map((ele) => (
             <li>
-              <a href={ele} target="_blank">
+              <a href={ele} target="_blank" rel="noreferrer">
                 {ele}
               </a>
             </li>
